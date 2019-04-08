@@ -189,4 +189,4 @@ async def link(ctx):
     await bot.say(embed=embed)
 
 
-bot.run("NTU3ODcxNDAwNDA5NjI4Njgz.XKg2EQ.Q7wr8i91GXaCvYSY6E-VohZkYSE")
+bot.run(process.env.BOT_TOKEN)
