@@ -1,5 +1,6 @@
-# Basic Discord Bot
-Basic Discord Bot Template Made Using Python, You're allowed to make changes to it.
-<html>
-  <b> hello</b>
-</html>
+# Basic Discord Bot Template
+<div>
+  Basic Discord BotTemplate
+  <br>
+  Made Using Python 3.6.4
+</div>
