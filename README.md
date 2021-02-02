@@ -1,3 +1,5 @@
+#[ OUTDATED ]
+
 # Basic Discord Bot
 This is a basic [Discord](https://discordapp.com) bot template, a starting point for any developer that plans to use [Discord.py](https://github.com/Rapptz/discord.py) as part of their architecture.
 
