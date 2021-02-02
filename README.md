@@ -14,8 +14,7 @@ Make Sure to check this tutorial, if you have any trouble hosting the bot on her
 
 -------------------------
 ## Credits
-Hehe Thank you for using my template hope this will be easy kickstart for new discord bot, no need of credits unless you really want!
+Thank you for using my template hope this will be easy kickstart for new discord bot, no need of credits unless you really want!
 
 Make sure to check my socials
-> https://www.instagram.com/anupa.ra/
 Made with lots of love by Anupa Rajasinghe!
